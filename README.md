@@ -1,9 +1,8 @@
 # Reddit API test
 
 
-# Preview
-![App](https://i.imgur.com/4bI98Ju.mp4)
-
+# Preview 📲
+![App](https://i.imgur.com/GTPUZZk.gif)
 
 ```ts
 yarn && cd ios && pod install && cd .. && yarn ios
